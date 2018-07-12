@@ -28,6 +28,6 @@ $(document).ready(function(){
 
     $('.modal').modal();
 
-    var data = new Date();
-    document.getElementById("data").innerHTML = data.toLocaleDateString();
+    // var data = new Date();
+    // document.getElementById("data").innerHTML = data.toLocaleDateString();
 });
